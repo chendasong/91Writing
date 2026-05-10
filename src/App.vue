@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <!-- 顶部导航栏 -->
     <router-view />
     
     <!-- 公告对话框 -->
